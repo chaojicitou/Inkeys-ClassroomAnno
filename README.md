@@ -58,6 +58,13 @@
 
 ## 构建
 
+### 获取源码
+
+```powershell
+git clone https://github.com/chaojicitou/Inkeys-ClassroomAnno.git
+cd Inkeys-ClassroomAnno
+```
+
 ### 环境要求
 
 - Windows 10 / 11（x64）
